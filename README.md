@@ -26,11 +26,11 @@ Player create obstructions that can damage or kill enemy attackers before destro
 ## ART Concept
 
 The character inspiration and game elements came from diferent sects.  
-![Route666](https://raw.githubusercontent.com/xsery/crossroads/gh-pages/tela_inicial-20-1.png)
+![BodyDefense](https://raw.githubusercontent.com/xsery/bodydefense.github.io/master/bannerbody.png)
 
 ## Sound
 	
-Soun effects ramdomly created by the game.
+Youtube library
 
 ## Play
 
