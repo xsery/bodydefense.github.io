@@ -1,7 +1,6 @@
-# bodydefense.github.io
 Ludum Dare
 
-# ROAD 666
+# Body Defense
 
 
 Welcome to Body Defense game wiki!
@@ -34,4 +33,4 @@ Youtube library
 
 ## Play
 
-[PLAY Route 666](source/)
+[PLAY BodyDefense](source/)
