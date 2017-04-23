@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+Ludum Dare
 
-You can use the [editor on GitHub](https://github.com/xsery/bodydefense.github.io/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+# Body Defense
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Welcome to Body Defense game wiki!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Based on Tower defense (TD) is a subgenre of strategy video game where the goal is to defend a player's territories or possessions by obstructing the enemy attackers, usually achieved by placing defensive structures on or along their path of attack. This typically means building a variety of different structures that serve to automatically block, impede, attack or destroy enemies. Tower defense is seen as a subgenre of real-time strategy video games, due to its real-time origins, though many modern tower defense games include aspects of turn-based strategy. Strategic choice and positioning of defensive elements is an essential strategy of the genre.
 
-```markdown
-Syntax highlighted code block
+Body Defense creators:
 
-# Header 1
-## Header 2
-### Header 3
+* Luis Henrique - Developer / Game Designer
 
-- Bulleted
-- List
+* Francisca Augusto - Developer / Game Designer
 
-1. Numbered
-2. List
+* Thomas - Designer
 
-**Bold** and _Italic_ and `Code` text
+* Yasmim Rodrigues- Designer
 
-[Link](url) and ![Image](src)
-```
+## Gameplay
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Player create obstructions that can damage or kill enemy attackers before destroying the body.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xsery/bodydefense.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## ART Concept
 
-### Support or Contact
+The character inspiration and game elements came from diferent sects.  
+![BodyDefense](https://raw.githubusercontent.com/xsery/bodydefense.github.io/master/bannerbody.png)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Sound
+	
+Youtube library
+
+## Play
+
+[PLAY BodyDefense](source/)
