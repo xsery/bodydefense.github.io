@@ -1,0 +1,500 @@
+fileFormatVersion: 2
+guid: faab12abe3be190499fa0cca348ebe36
+timeCreated: 1450599897
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Up walk_0
+    21300002: Up walk_1
+    21300004: Up walk_2
+    21300006: Up walk_3
+    21300008: Up walk_4
+    21300010: Up walk_5
+    21300012: Up walk_6
+    21300014: Up walk_7
+    21300016: Up walk_8
+    21300018: Up walk_9
+    21300020: Up walk_10
+    21300022: Up walk_11
+    21300024: Up walk_12
+    21300026: Up walk_13
+    21300028: Up walk_14
+    21300030: Up walk_15
+    21300032: Up walk_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 300
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Up walk_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 3608
+        width: 433
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 116}
+        - {x: -24, y: 116}
+        - {x: -104, y: 44}
+        - {x: -108, y: 31}
+        - {x: -108, y: 12}
+        - {x: -76, y: -5}
+        - {x: -87, y: -75}
+        - {x: -66, y: -108}
+        - {x: -46, y: -116}
+        - {x: 83, y: -116}
+        - {x: 109, y: -32}
+        - {x: 109, y: 47}
+    - name: Up walk_1
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 3609
+        width: 430
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56.5, y: -106}
+        - {x: 59.5, y: -108}
+        - {x: 64.5, y: -109}
+        - {x: 71.5, y: -109}
+        - {x: 78.5, y: -104}
+        - {x: 108.5, y: -34}
+        - {x: 108.5, y: 35}
+        - {x: 85.5, y: 67}
+        - {x: 21.5, y: 109}
+        - {x: 5.5, y: 117}
+        - {x: -27.5, y: 117}
+        - {x: -105.5, y: 45}
+        - {x: -107.5, y: 34}
+        - {x: -107.5, y: 15}
+        - {x: -103.5, y: 13}
+        - {x: -93.5, y: 12}
+        - {x: -88.5, y: -55}
+        - {x: -68.5, y: -104}
+        - {x: -42.5, y: -116}
+        - {x: 30.5, y: -116}
+        - {x: 42.5, y: -111}
+        - {x: 53.5, y: -95}
+        - {x: 53.5, y: -87}
+    - name: Up walk_2
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 3609
+        width: 432
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 71, y: -113}
+        - {x: 109, y: -52}
+        - {x: 109, y: 43}
+        - {x: 50, y: 118}
+        - {x: -30, y: 118}
+        - {x: -103, y: 46}
+        - {x: -108, y: 35}
+        - {x: -108, y: -15}
+        - {x: -81, y: -115}
+        - {x: -67, y: -117}
+        - {x: 37, y: -117}
+        - {x: 54, y: -94}
+        - {x: 54, y: -91}
+        - {x: 54, y: -106}
+    - name: Up walk_3
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 3609
+        width: 432
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 109, y: 28}
+        - {x: 87, y: 65}
+        - {x: 21, y: 111}
+        - {x: 9, y: 119}
+        - {x: -26, y: 119}
+        - {x: -108, y: 50}
+        - {x: -108, y: -7}
+        - {x: -82, y: -72}
+        - {x: -45, y: -117}
+        - {x: -43, y: -118}
+        - {x: 66, y: -118}
+        - {x: 104, y: -55}
+        - {x: 109, y: -45}
+    - name: Up walk_4
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 3093
+        width: 434
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 92.5, y: 53}
+        - {x: 20.5, y: 113}
+        - {x: -11.5, y: 120}
+        - {x: -26.5, y: 120}
+        - {x: -108.5, y: 48}
+        - {x: -108.5, y: 9}
+        - {x: -88.5, y: -6}
+        - {x: -90.5, y: -51}
+        - {x: -71.5, y: -101}
+        - {x: -54.5, y: -119}
+        - {x: 75.5, y: -119}
+        - {x: 109.5, y: -26}
+        - {x: 109.5, y: 21}
+        - {x: 107.5, y: 29}
+    - name: Up walk_5
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 3093
+        width: 432
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 111}
+        - {x: 9, y: 119}
+        - {x: -24, y: 119}
+        - {x: -66, y: 80}
+        - {x: -108, y: 50}
+        - {x: -108, y: 12}
+        - {x: -77, y: -3}
+        - {x: -87, y: -75}
+        - {x: -41, y: -118}
+        - {x: 41, y: -118}
+        - {x: 69, y: -113}
+        - {x: 109, y: -45}
+        - {x: 109, y: 51}
+    - name: Up walk_6
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 3093
+        width: 432
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 112}
+        - {x: -7, y: 118}
+        - {x: -27, y: 118}
+        - {x: -100, y: 53}
+        - {x: -108, y: 33}
+        - {x: -108, y: 14}
+        - {x: -57, y: -20}
+        - {x: -95, y: -48}
+        - {x: -55, y: -113}
+        - {x: -45, y: -117}
+        - {x: 80, y: -117}
+        - {x: 109, y: -35}
+        - {x: 109, y: 24}
+        - {x: 93, y: 53}
+    - name: Up walk_7
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 3093
+        width: 433
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 109, y: 70}
+        - {x: 84, y: 117}
+        - {x: -28, y: 117}
+        - {x: -106, y: 45}
+        - {x: -108, y: 34}
+        - {x: -108, y: 15}
+        - {x: -104, y: 13}
+        - {x: -92, y: -75}
+        - {x: -62, y: -98}
+        - {x: -34, y: -116}
+        - {x: 45, y: -116}
+        - {x: 71, y: -110}
+        - {x: 73, y: -105}
+        - {x: 109, y: -82}
+    - name: Up walk_8
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2576
+        width: 433
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 116}
+        - {x: -24, y: 116}
+        - {x: -104, y: 44}
+        - {x: -108, y: 31}
+        - {x: -108, y: 12}
+        - {x: -76, y: -5}
+        - {x: -87, y: -75}
+        - {x: -66, y: -108}
+        - {x: -46, y: -116}
+        - {x: 83, y: -116}
+        - {x: 109, y: -32}
+        - {x: 109, y: 47}
+    - name: Up walk_9
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 2577
+        width: 430
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: 111.5}
+        - {x: -9.5, y: 117.5}
+        - {x: -25.5, y: 117.5}
+        - {x: -106.5, y: 49.5}
+        - {x: -107.5, y: 43.5}
+        - {x: -107.5, y: -1.5}
+        - {x: -86.5, y: -58.5}
+        - {x: -60.5, y: -105.5}
+        - {x: -35.5, y: -116.5}
+        - {x: 58.5, y: -116.5}
+        - {x: 85.5, y: -107.5}
+        - {x: 108.5, y: -43.5}
+        - {x: 108.5, y: 36.5}
+        - {x: 89.5, y: 50.5}
+    - name: Up walk_10
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 2577
+        width: 432
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 118.5}
+        - {x: -46, y: 118.5}
+        - {x: -108, y: 65.5}
+        - {x: -108, y: 15.5}
+        - {x: -103, y: 13.5}
+        - {x: -87, y: -58.5}
+        - {x: -67, y: -102.5}
+        - {x: -29, y: -117.5}
+        - {x: 48, y: -117.5}
+        - {x: 76, y: -107.5}
+        - {x: 109, y: -37.5}
+        - {x: 109, y: 21.5}
+        - {x: 94, y: 56.5}
+    - name: Up walk_11
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 2576
+        width: 432
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 119}
+        - {x: -28, y: 119}
+        - {x: -91, y: 60}
+        - {x: -108, y: 40}
+        - {x: -108, y: 16}
+        - {x: -107, y: 14}
+        - {x: -90, y: 12}
+        - {x: -86, y: -57}
+        - {x: -81, y: -119}
+        - {x: 90, y: -119}
+        - {x: 109, y: -62}
+        - {x: 109, y: 50}
+        - {x: 20, y: 112}
+    - name: Up walk_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2061
+        width: 434
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 84.5, y: 15.5}
+        - {x: 72.5, y: 14.5}
+        - {x: 87.5, y: 15.5}
+        - {x: 100.5, y: 15.5}
+        - {x: 109.5, y: 24.5}
+        - {x: 109.5, y: 42.5}
+        - {x: 14.5, y: 120.5}
+        - {x: -35.5, y: 120.5}
+        - {x: -104.5, y: 52.5}
+        - {x: -108.5, y: 37.5}
+        - {x: -108.5, y: -12.5}
+        - {x: -101.5, y: -57.5}
+        - {x: -45.5, y: -119.5}
+        - {x: 80.5, y: -119.5}
+        - {x: 109.5, y: -29.5}
+        - {x: 109.5, y: 13.5}
+        - {x: 90.5, y: 15.5}
+    - name: Up walk_13
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 2061
+        width: 432
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 119.5}
+        - {x: -48, y: 119.5}
+        - {x: -108, y: 41.5}
+        - {x: -108, y: 16.5}
+        - {x: -107, y: 14.5}
+        - {x: -90, y: 12.5}
+        - {x: -83, y: -56.5}
+        - {x: -62, y: -100.5}
+        - {x: -23, y: -118.5}
+        - {x: 65, y: -118.5}
+        - {x: 72, y: -117.5}
+        - {x: 109, y: -49.5}
+        - {x: 109, y: 48.5}
+        - {x: 92, y: 74.5}
+    - name: Up walk_14
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 2061
+        width: 432
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 118.5}
+        - {x: -100, y: 52.5}
+        - {x: -108, y: 32.5}
+        - {x: -108, y: 14.5}
+        - {x: -99, y: 11.5}
+        - {x: -79, y: -81.5}
+        - {x: -44, y: -114.5}
+        - {x: -37, y: -117.5}
+        - {x: 82, y: -117.5}
+        - {x: 109, y: -38.5}
+        - {x: 109, y: 49.5}
+        - {x: 40, y: 118.5}
+    - name: Up walk_15
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 2056
+        width: 430
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 108.5, y: 52}
+        - {x: 20.5, y: 112}
+        - {x: -9.5, y: 118}
+        - {x: -25.5, y: 118}
+        - {x: -106.5, y: 50}
+        - {x: -107.5, y: 47}
+        - {x: -107.5, y: -22}
+        - {x: -67.5, y: -90}
+        - {x: -59.5, y: -96}
+        - {x: -43.5, y: -112}
+        - {x: -24.5, y: -117}
+        - {x: 58.5, y: -117}
+        - {x: 73.5, y: -111}
+        - {x: 107.5, y: -54}
+        - {x: 108.5, y: -46}
+    - name: Up walk_16
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1544
+        width: 433
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 116}
+        - {x: -24, y: 116}
+        - {x: -104, y: 44}
+        - {x: -108, y: 31}
+        - {x: -108, y: 12}
+        - {x: -76, y: -5}
+        - {x: -87, y: -75}
+        - {x: -66, y: -108}
+        - {x: -46, y: -116}
+        - {x: 83, y: -116}
+        - {x: 109, y: -32}
+        - {x: 109, y: 47}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,527 @@
+fileFormatVersion: 2
+guid: 0d65161a9dba1a54d937b78f68dcc229
+timeCreated: 1451804494
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: blue_left_0
+    21300002: blue_left_1
+    21300004: blue_left_2
+    21300006: blue_left_3
+    21300008: blue_left_4
+    21300010: blue_left_5
+    21300012: blue_left_6
+    21300014: blue_left_7
+    21300016: blue_left_8
+    21300018: blue_left_9
+    21300020: blue_left_10
+    21300022: blue_left_11
+    21300024: blue_left_12
+    21300026: blue_left_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 300
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: blue_left_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1716
+        width: 218
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 108, y: -103.5}
+        - {x: 53, y: -83.5}
+        - {x: 109, y: 36.5}
+        - {x: 109, y: 112.5}
+        - {x: 83, y: 144.5}
+        - {x: 57, y: 157.5}
+        - {x: -23, y: 157.5}
+        - {x: -67, y: 134.5}
+        - {x: -92, y: 90.5}
+        - {x: -102, y: 31.5}
+        - {x: -93, y: -4.5}
+        - {x: -55, y: -66.5}
+        - {x: -108, y: -99.5}
+        - {x: -109, y: -100.5}
+        - {x: -109, y: -145.5}
+        - {x: -104, y: -157.5}
+        - {x: 11, y: -157.5}
+        - {x: 39, y: -144.5}
+        - {x: 59, y: -157.5}
+        - {x: 70, y: -157.5}
+        - {x: 109, y: -141.5}
+        - {x: 109, y: -104.5}
+    - name: blue_left_1
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1716
+        width: 219
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 109.5, y: -133}
+        - {x: 109.5, y: -105}
+        - {x: 52.5, y: -87}
+        - {x: 96.5, y: 11}
+        - {x: 109.5, y: 46}
+        - {x: 109.5, y: 117}
+        - {x: 67.5, y: 156}
+        - {x: -25.5, y: 156}
+        - {x: -84.5, y: 126}
+        - {x: -107.5, y: 37}
+        - {x: -96.5, y: -1}
+        - {x: -51.5, y: -81}
+        - {x: -108.5, y: -97}
+        - {x: -109.5, y: -103}
+        - {x: -109.5, y: -139}
+        - {x: -98.5, y: -146}
+        - {x: -41.5, y: -156}
+        - {x: 18.5, y: -156}
+        - {x: 41.5, y: -135}
+        - {x: 72.5, y: -156}
+        - {x: 83.5, y: -156}
+    - name: blue_left_2
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1717
+        width: 219
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 109.5, y: -103.5}
+        - {x: 56.5, y: -79.5}
+        - {x: 109.5, y: 37.5}
+        - {x: 109.5, y: 107.5}
+        - {x: 84.5, y: 144.5}
+        - {x: 55.5, y: 153.5}
+        - {x: -32.5, y: 153.5}
+        - {x: -81.5, y: 119.5}
+        - {x: -92.5, y: 82.5}
+        - {x: -104.5, y: 16.5}
+        - {x: -56.5, y: -83.5}
+        - {x: -109.5, y: -91.5}
+        - {x: -109.5, y: -140.5}
+        - {x: -72.5, y: -148.5}
+        - {x: -32.5, y: -153.5}
+        - {x: 19.5, y: -153.5}
+        - {x: 57.5, y: -146.5}
+        - {x: 86.5, y: -150.5}
+        - {x: 109.5, y: -129.5}
+    - name: blue_left_3
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1717
+        width: 221
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 110.5, y: -98}
+        - {x: 62.5, y: -66}
+        - {x: 110.5, y: 40}
+        - {x: 110.5, y: 99}
+        - {x: 100.5, y: 126}
+        - {x: 63.5, y: 152}
+        - {x: -36.5, y: 152}
+        - {x: -82.5, y: 119}
+        - {x: -106.5, y: 32}
+        - {x: -93.5, y: -6}
+        - {x: -54.5, y: -91}
+        - {x: -103.5, y: -83}
+        - {x: -110.5, y: -103}
+        - {x: -110.5, y: -138}
+        - {x: -107.5, y: -141}
+        - {x: -45.5, y: -152}
+        - {x: 13.5, y: -152}
+        - {x: 62.5, y: -150}
+        - {x: 101.5, y: -142}
+        - {x: 110.5, y: -126}
+    - name: blue_left_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1385
+        width: 221
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 110.5, y: -104.5}
+        - {x: 104.5, y: -97.5}
+        - {x: 103.5, y: 9.5}
+        - {x: 110.5, y: 39.5}
+        - {x: 110.5, y: 110.5}
+        - {x: 84.5, y: 138.5}
+        - {x: 53.5, y: 150.5}
+        - {x: -26.5, y: 150.5}
+        - {x: -76.5, y: 124.5}
+        - {x: -89.5, y: 92.5}
+        - {x: -103.5, y: 17.5}
+        - {x: -52.5, y: -83.5}
+        - {x: -99.5, y: -85.5}
+        - {x: -110.5, y: -96.5}
+        - {x: -110.5, y: -131.5}
+        - {x: -106.5, y: -142.5}
+        - {x: -41.5, y: -150.5}
+        - {x: 21.5, y: -150.5}
+        - {x: 59.5, y: -146.5}
+        - {x: 97.5, y: -145.5}
+        - {x: 110.5, y: -122.5}
+    - name: blue_left_5
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1386
+        width: 224
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58, y: -86}
+        - {x: 92, y: -6}
+        - {x: 112, y: 43}
+        - {x: 112, y: 103}
+        - {x: 89, y: 134}
+        - {x: 65, y: 152}
+        - {x: -35, y: 152}
+        - {x: -96, y: 113}
+        - {x: -103, y: 6}
+        - {x: -70, y: -74}
+        - {x: -112, y: -92}
+        - {x: -112, y: -132}
+        - {x: -107, y: -138}
+        - {x: -102, y: -142}
+        - {x: -65, y: -152}
+        - {x: 9, y: -152}
+        - {x: 36, y: -140}
+        - {x: 60, y: -152}
+        - {x: 73, y: -152}
+        - {x: 112, y: -136}
+        - {x: 112, y: -102}
+    - name: blue_left_6
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1387
+        width: 228
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 114, y: -97.5}
+        - {x: 68, y: -60.5}
+        - {x: 106, y: 8.5}
+        - {x: 114, y: 53.5}
+        - {x: 114, y: 117.5}
+        - {x: 113, y: 122.5}
+        - {x: 66, y: 153.5}
+        - {x: -31, y: 153.5}
+        - {x: -49, y: 149.5}
+        - {x: -76, y: 116.5}
+        - {x: -87, y: 97.5}
+        - {x: -93, y: 72.5}
+        - {x: -109, y: 31.5}
+        - {x: -63, y: -80.5}
+        - {x: -114, y: -93.5}
+        - {x: -114, y: -141.5}
+        - {x: -105, y: -144.5}
+        - {x: -50, y: -153.5}
+        - {x: 57, y: -153.5}
+        - {x: 67, y: -151.5}
+        - {x: 102, y: -143.5}
+        - {x: 114, y: -130.5}
+    - name: blue_left_7
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1387
+        width: 232
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 116, y: -132.5}
+        - {x: 116, y: -109.5}
+        - {x: 102, y: -101.5}
+        - {x: 57, y: -85.5}
+        - {x: 116, y: 53.5}
+        - {x: 116, y: 80.5}
+        - {x: 112, y: 106.5}
+        - {x: 78, y: 147.5}
+        - {x: 56, y: 155.5}
+        - {x: -23, y: 155.5}
+        - {x: -46, y: 145.5}
+        - {x: -82, y: 115.5}
+        - {x: -109, y: 15.5}
+        - {x: -55, y: -89.5}
+        - {x: -112, y: -88.5}
+        - {x: -116, y: -102.5}
+        - {x: -116, y: -147.5}
+        - {x: -47, y: -155.5}
+        - {x: 10, y: -155.5}
+        - {x: 36, y: -132.5}
+        - {x: 59, y: -150.5}
+        - {x: 92, y: -155.5}
+    - name: blue_left_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1057
+        width: 236
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 118, y: -111}
+        - {x: 113, y: -99}
+        - {x: 53, y: -89}
+        - {x: 108, y: 31}
+        - {x: 117, y: 95}
+        - {x: 107, y: 134}
+        - {x: 61, y: 157}
+        - {x: -23, y: 157}
+        - {x: -52, y: 143}
+        - {x: -87, y: 113}
+        - {x: -112, y: 31}
+        - {x: -56, y: -82}
+        - {x: -100, y: -95}
+        - {x: -118, y: -116}
+        - {x: -118, y: -152}
+        - {x: -107, y: -157}
+        - {x: 51, y: -157}
+        - {x: 70, y: -156}
+        - {x: 106, y: -149}
+        - {x: 118, y: -141}
+    - name: blue_left_9
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1058
+        width: 240
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66, y: -94.5}
+        - {x: 61, y: -59.5}
+        - {x: 106, y: 32.5}
+        - {x: 114, y: 60.5}
+        - {x: 109, y: 108.5}
+        - {x: 95, y: 130.5}
+        - {x: 71, y: 157.5}
+        - {x: 59, y: 158.5}
+        - {x: -32, y: 158.5}
+        - {x: -49, y: 152.5}
+        - {x: -95, y: 96.5}
+        - {x: -103, y: 30.5}
+        - {x: -92, y: -10.5}
+        - {x: -74, y: -18.5}
+        - {x: -50, y: -90.5}
+        - {x: -119, y: -110.5}
+        - {x: -120, y: -114.5}
+        - {x: -120, y: -156.5}
+        - {x: -113, y: -158.5}
+        - {x: 109, y: -158.5}
+        - {x: 120, y: -140.5}
+        - {x: 120, y: -110.5}
+    - name: blue_left_10
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1057
+        width: 234
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 117, y: -138.5}
+        - {x: 117, y: -107.5}
+        - {x: 56, y: -82.5}
+        - {x: 99, y: 16.5}
+        - {x: 115, y: 60.5}
+        - {x: 108, y: 113.5}
+        - {x: 87, y: 143.5}
+        - {x: 51, y: 158.5}
+        - {x: -23, y: 158.5}
+        - {x: -62, y: 136.5}
+        - {x: -95, y: 92.5}
+        - {x: -102, y: 8.5}
+        - {x: -72, y: -36.5}
+        - {x: -62, y: -101.5}
+        - {x: -101, y: -103.5}
+        - {x: -117, y: -107.5}
+        - {x: -117, y: -158.5}
+        - {x: 9, y: -158.5}
+        - {x: 33, y: -136.5}
+        - {x: 71, y: -157.5}
+        - {x: 112, y: -153.5}
+    - name: blue_left_11
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1056
+        width: 230
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 113, y: -145.5}
+        - {x: 115, y: -139.5}
+        - {x: 115, y: -108.5}
+        - {x: 56, y: -82.5}
+        - {x: 115, y: 45.5}
+        - {x: 115, y: 86.5}
+        - {x: 101, y: 134.5}
+        - {x: 73, y: 150.5}
+        - {x: 54, y: 158.5}
+        - {x: -28, y: 158.5}
+        - {x: -39, y: 157.5}
+        - {x: -84, y: 112.5}
+        - {x: -103, y: 30.5}
+        - {x: -93, y: -5.5}
+        - {x: -75, y: -19.5}
+        - {x: -48, y: -94.5}
+        - {x: -106, y: -92.5}
+        - {x: -115, y: -113.5}
+        - {x: -115, y: -151.5}
+        - {x: -105, y: -155.5}
+        - {x: -53, y: -158.5}
+        - {x: 9, y: -158.5}
+        - {x: 37, y: -141.5}
+        - {x: 76, y: -158.5}
+        - {x: 90, y: -158.5}
+    - name: blue_left_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 724
+        width: 224
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 111, y: -107}
+        - {x: 56, y: -78}
+        - {x: 112, y: 44}
+        - {x: 112, y: 89}
+        - {x: 109, y: 116}
+        - {x: 87, y: 141}
+        - {x: 51, y: 158}
+        - {x: -15, y: 158}
+        - {x: -44, y: 150}
+        - {x: -80, y: 124}
+        - {x: -108, y: 30}
+        - {x: -93, y: -5}
+        - {x: -49, y: -85}
+        - {x: -110, y: -99}
+        - {x: -112, y: -105}
+        - {x: -112, y: -145}
+        - {x: -110, y: -150}
+        - {x: -75, y: -158}
+        - {x: 12, y: -158}
+        - {x: 38, y: -148}
+        - {x: 77, y: -158}
+        - {x: 94, y: -158}
+        - {x: 112, y: -138}
+        - {x: 112, y: -111}
+    - name: blue_left_13
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 723
+        width: 218
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 108, y: -103.5}
+        - {x: 53, y: -83.5}
+        - {x: 109, y: 36.5}
+        - {x: 109, y: 112.5}
+        - {x: 83, y: 144.5}
+        - {x: 57, y: 157.5}
+        - {x: -23, y: 157.5}
+        - {x: -67, y: 134.5}
+        - {x: -92, y: 90.5}
+        - {x: -102, y: 31.5}
+        - {x: -93, y: -4.5}
+        - {x: -55, y: -66.5}
+        - {x: -108, y: -99.5}
+        - {x: -109, y: -100.5}
+        - {x: -109, y: -145.5}
+        - {x: -104, y: -157.5}
+        - {x: 11, y: -157.5}
+        - {x: 39, y: -144.5}
+        - {x: 59, y: -157.5}
+        - {x: 70, y: -157.5}
+        - {x: 109, y: -141.5}
+        - {x: 109, y: -104.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

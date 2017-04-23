@@ -1,0 +1,462 @@
+fileFormatVersion: 2
+guid: 18d383bd4209a6c4e8fcd9bf518d9892
+timeCreated: 1450599867
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Left walk_0
+    21300002: Left walk_1
+    21300004: Left walk_2
+    21300006: Left walk_3
+    21300008: Left walk_4
+    21300010: Left walk_5
+    21300012: Left walk_6
+    21300014: Left walk_7
+    21300016: Left walk_8
+    21300018: Left walk_9
+    21300020: Left walk_10
+    21300022: Left walk_11
+    21300024: Left walk_12
+    21300026: Left walk_13
+    21300028: Left walk_14
+    21300030: Left walk_15
+    21300032: Left walk_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 300
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Left walk_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 3599
+        width: 418
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 84.5, y: 119.5}
+        - {x: -35.5, y: 119.5}
+        - {x: -104.5, y: 49.5}
+        - {x: -104.5, y: 12.5}
+        - {x: -100.5, y: 8.5}
+        - {x: -49.5, y: -100.5}
+        - {x: -17.5, y: -118.5}
+        - {x: 21.5, y: -118.5}
+        - {x: 58.5, y: -92.5}
+        - {x: 76.5, y: 10.5}
+        - {x: 105.5, y: 8.5}
+        - {x: 105.5, y: 75.5}
+    - name: Left walk_1
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 3601
+        width: 418
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 97.5, y: 53.5}
+        - {x: 61.5, y: 107.5}
+        - {x: 0.5, y: 119.5}
+        - {x: -25.5, y: 119.5}
+        - {x: -104.5, y: 50.5}
+        - {x: -104.5, y: 8.5}
+        - {x: -57.5, y: -102.5}
+        - {x: -10.5, y: -118.5}
+        - {x: 29.5, y: -118.5}
+        - {x: 54.5, y: -90.5}
+        - {x: 105.5, y: 9.5}
+        - {x: 105.5, y: 36.5}
+    - name: Left walk_2
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 3601
+        width: 421
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.5, y: 115.5}
+        - {x: 3.5, y: 120.5}
+        - {x: -23.5, y: 120.5}
+        - {x: -97.5, y: 57.5}
+        - {x: -105.5, y: 37.5}
+        - {x: -105.5, y: 2.5}
+        - {x: -45.5, y: -106.5}
+        - {x: -23.5, y: -119.5}
+        - {x: 23.5, y: -119.5}
+        - {x: 61.5, y: -93.5}
+        - {x: 105.5, y: -0.5}
+        - {x: 105.5, y: 46.5}
+        - {x: 101.5, y: 64.5}
+    - name: Left walk_3
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 3600
+        width: 418
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50.5, y: 110}
+        - {x: 19.5, y: 121}
+        - {x: -26.5, y: 121}
+        - {x: -100.5, y: 50}
+        - {x: -104.5, y: 36}
+        - {x: -104.5, y: 17}
+        - {x: -76.5, y: -6}
+        - {x: -51.5, y: -120}
+        - {x: -40.5, y: -121}
+        - {x: 24.5, y: -121}
+        - {x: 54.5, y: -92}
+        - {x: 105.5, y: 10}
+        - {x: 105.5, y: 46}
+    - name: Left walk_4
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 3099
+        width: 418
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60.5, y: 114.5}
+        - {x: 22.5, y: 121.5}
+        - {x: -42.5, y: 121.5}
+        - {x: -104.5, y: 52.5}
+        - {x: -104.5, y: 19.5}
+        - {x: -100.5, y: 18.5}
+        - {x: -55.5, y: -95.5}
+        - {x: -48.5, y: -110.5}
+        - {x: -34.5, y: -120.5}
+        - {x: 50.5, y: -120.5}
+        - {x: 105.5, y: -34.5}
+        - {x: 105.5, y: 50.5}
+        - {x: 97.5, y: 55.5}
+    - name: Left walk_5
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 3096
+        width: 418
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 78.5, y: 120}
+        - {x: 33.5, y: 111}
+        - {x: -7.5, y: 121}
+        - {x: -22.5, y: 121}
+        - {x: -104.5, y: 51}
+        - {x: -104.5, y: -19}
+        - {x: -59.5, y: -120}
+        - {x: -56.5, y: -121}
+        - {x: 26.5, y: -121}
+        - {x: 65.5, y: -96}
+        - {x: 67.5, y: 9}
+        - {x: 105.5, y: 8}
+        - {x: 105.5, y: 72}
+    - name: Left walk_6
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 3097
+        width: 421
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 65.5, y: 113.5}
+        - {x: 16.5, y: 120.5}
+        - {x: -27.5, y: 120.5}
+        - {x: -105.5, y: 55.5}
+        - {x: -105.5, y: 6.5}
+        - {x: -82.5, y: -12.5}
+        - {x: -65.5, y: -75.5}
+        - {x: -38.5, y: -114.5}
+        - {x: -23.5, y: -119.5}
+        - {x: 31.5, y: -119.5}
+        - {x: 62.5, y: -74.5}
+        - {x: 105.5, y: 4.5}
+        - {x: 105.5, y: 59.5}
+    - name: Left walk_7
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 3095
+        width: 418
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 120}
+        - {x: -104.5, y: 50}
+        - {x: -104.5, y: 14}
+        - {x: -64.5, y: -12}
+        - {x: -55.5, y: -99}
+        - {x: -18.5, y: -119}
+        - {x: 20.5, y: -119}
+        - {x: 57.5, y: -92}
+        - {x: 105.5, y: -23}
+        - {x: 105.5, y: 57}
+        - {x: 71.5, y: 120}
+    - name: Left walk_8
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2589
+        width: 418
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 84.5, y: 119.5}
+        - {x: -37.5, y: 119.5}
+        - {x: -104.5, y: 61.5}
+        - {x: -104.5, y: 10.5}
+        - {x: -77.5, y: -3.5}
+        - {x: -66.5, y: -96.5}
+        - {x: -26.5, y: -118.5}
+        - {x: 29.5, y: -118.5}
+        - {x: 61.5, y: -93.5}
+        - {x: 76.5, y: 10.5}
+        - {x: 105.5, y: 8.5}
+        - {x: 105.5, y: 75.5}
+    - name: Left walk_9
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 2591
+        width: 418
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 119.5}
+        - {x: -104.5, y: 50.5}
+        - {x: -104.5, y: 3.5}
+        - {x: -103.5, y: -1.5}
+        - {x: -40.5, y: -118.5}
+        - {x: 22.5, y: -118.5}
+        - {x: 47.5, y: -93.5}
+        - {x: 105.5, y: -107.5}
+        - {x: 105.5, y: 119.5}
+    - name: Left walk_10
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 2591
+        width: 418
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64.5, y: 96.5}
+        - {x: 43.5, y: 108.5}
+        - {x: -6.5, y: 120.5}
+        - {x: -27.5, y: 120.5}
+        - {x: -104.5, y: 83.5}
+        - {x: -104.5, y: -46.5}
+        - {x: -86.5, y: -119.5}
+        - {x: 17.5, y: -119.5}
+        - {x: 54.5, y: -90.5}
+        - {x: 105.5, y: 18.5}
+        - {x: 105.5, y: 39.5}
+        - {x: 93.5, y: 53.5}
+    - name: Left walk_11
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 2593
+        width: 418
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.5, y: 121}
+        - {x: -31.5, y: 121}
+        - {x: -101.5, y: 52}
+        - {x: -104.5, y: 44}
+        - {x: -104.5, y: 19}
+        - {x: -102.5, y: 15}
+        - {x: -61.5, y: -103}
+        - {x: -43.5, y: -120}
+        - {x: 36.5, y: -120}
+        - {x: 96.5, y: -24}
+        - {x: 105.5, y: 5}
+        - {x: 105.5, y: 44}
+        - {x: 59.5, y: 107}
+    - name: Left walk_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2089
+        width: 418
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 105.5, y: 56.5}
+        - {x: 72.5, y: 121.5}
+        - {x: -40.5, y: 121.5}
+        - {x: -104.5, y: 73.5}
+        - {x: -104.5, y: 7.5}
+        - {x: -94.5, y: -10.5}
+        - {x: -54.5, y: -120.5}
+        - {x: 27.5, y: -120.5}
+        - {x: 53.5, y: -90.5}
+        - {x: 72.5, y: 13.5}
+        - {x: 105.5, y: 13.5}
+    - name: Left walk_13
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 2087
+        width: 419
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73.5, y: 121}
+        - {x: -45.5, y: 121}
+        - {x: -104.5, y: 56}
+        - {x: -104.5, y: 8}
+        - {x: -57.5, y: -92}
+        - {x: -51.5, y: -120}
+        - {x: 42.5, y: -120}
+        - {x: 75.5, y: -112}
+        - {x: 80.5, y: 7}
+        - {x: 105.5, y: 19}
+        - {x: 105.5, y: 78}
+    - name: Left walk_14
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 2087
+        width: 424
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 120.5}
+        - {x: -31, y: 120.5}
+        - {x: -106, y: 64.5}
+        - {x: -106, y: -26.5}
+        - {x: -38, y: -119.5}
+        - {x: 37, y: -119.5}
+        - {x: 106, y: 6.5}
+        - {x: 106, y: 35.5}
+        - {x: 71, y: 90.5}
+    - name: Left walk_15
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 2085
+        width: 418
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 105.5, y: 16}
+        - {x: 105.5, y: 60}
+        - {x: 79.5, y: 120}
+        - {x: -24.5, y: 120}
+        - {x: -104.5, y: 85}
+        - {x: -104.5, y: 5}
+        - {x: -54.5, y: -102}
+        - {x: -5.5, y: -119}
+        - {x: 24.5, y: -119}
+        - {x: 51.5, y: -90}
+        - {x: 50.5, y: -79}
+        - {x: 60.5, y: -41}
+    - name: Left walk_16
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1579
+        width: 418
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.5, y: 118.5}
+        - {x: -24.5, y: 118.5}
+        - {x: -104.5, y: 60.5}
+        - {x: -104.5, y: 11.5}
+        - {x: -83.5, y: -6.5}
+        - {x: -54.5, y: -102.5}
+        - {x: -22.5, y: -117.5}
+        - {x: 21.5, y: -117.5}
+        - {x: 58.5, y: -91.5}
+        - {x: 105.5, y: -27.5}
+        - {x: 105.5, y: 64.5}
+        - {x: 79.5, y: 115.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

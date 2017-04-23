@@ -1,0 +1,519 @@
+fileFormatVersion: 2
+guid: 7972f8161fb711d47ac4868dbe0920b6
+timeCreated: 1450599857
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Down walk_0
+    21300002: Down walk_1
+    21300004: Down walk_2
+    21300006: Down walk_3
+    21300008: Down walk_4
+    21300010: Down walk_5
+    21300012: Down walk_6
+    21300014: Down walk_7
+    21300016: Down walk_8
+    21300018: Down walk_9
+    21300020: Down walk_10
+    21300022: Down walk_11
+    21300024: Down walk_12
+    21300026: Down walk_13
+    21300028: Down walk_14
+    21300030: Down walk_15
+    21300032: Down walk_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 300
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Down walk_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3609
+        width: 429
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 107.5, y: 12}
+        - {x: 107.5, y: 42}
+        - {x: 68.5, y: 111}
+        - {x: 40.5, y: 116}
+        - {x: -15.5, y: 116}
+        - {x: -51.5, y: 67}
+        - {x: -107.5, y: 42}
+        - {x: -107.5, y: -36}
+        - {x: -76.5, y: -115}
+        - {x: 58.5, y: -115}
+        - {x: 85.5, y: -59}
+        - {x: 59.5, y: -33}
+        - {x: 106.5, y: 11}
+    - name: Down walk_1
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 3608
+        width: 428
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: 116.5}
+        - {x: -15, y: 116.5}
+        - {x: -107, y: 54.5}
+        - {x: -107, y: 22.5}
+        - {x: -101, y: 8.5}
+        - {x: -94, y: 13.5}
+        - {x: -69, y: 13.5}
+        - {x: -68, y: 12.5}
+        - {x: -73, y: 13.5}
+        - {x: -88, y: 13.5}
+        - {x: -98, y: 7.5}
+        - {x: -107, y: -0.5}
+        - {x: -107, y: -68.5}
+        - {x: -69, y: -116.5}
+        - {x: 71, y: -116.5}
+        - {x: 87, y: -110.5}
+        - {x: 108, y: -18.5}
+        - {x: 108, y: 48.5}
+        - {x: 56, y: 109.5}
+    - name: Down walk_2
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 3609
+        width: 428
+        height: 468
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: 118}
+        - {x: -106, y: 36}
+        - {x: -104, y: 20}
+        - {x: -97, y: 15}
+        - {x: -71, y: 15}
+        - {x: -90, y: 14}
+        - {x: -97, y: 12}
+        - {x: -107, y: -2}
+        - {x: -107, y: -39}
+        - {x: -72, y: -117}
+        - {x: 78, y: -117}
+        - {x: 108, y: -53}
+        - {x: 108, y: 93}
+        - {x: 43, y: 118}
+    - name: Down walk_3
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 3609
+        width: 426
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 107.5, y: 54.5}
+        - {x: 78.5, y: 102.5}
+        - {x: 42.5, y: 119.5}
+        - {x: 0.5, y: 119.5}
+        - {x: -27.5, y: 110.5}
+        - {x: -94.5, y: 54.5}
+        - {x: -106.5, y: 29.5}
+        - {x: -106.5, y: -24.5}
+        - {x: -80.5, y: -118.5}
+        - {x: 48.5, y: -118.5}
+        - {x: 85.5, y: -68.5}
+        - {x: 62.5, y: -32.5}
+        - {x: 107.5, y: -2.5}
+    - name: Down walk_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3125
+        width: 428
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 108, y: 46}
+        - {x: 33, y: 120}
+        - {x: 0, y: 120}
+        - {x: -21, y: 114}
+        - {x: -107, y: 49}
+        - {x: -107, y: -29}
+        - {x: -71, y: -115}
+        - {x: -56, y: -110}
+        - {x: -55, y: -107}
+        - {x: -51, y: -117}
+        - {x: -44, y: -119}
+        - {x: 45, y: -119}
+        - {x: 89, y: -69}
+        - {x: 108, y: -6}
+    - name: Down walk_5
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 3123
+        width: 426
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 74.5, y: 2.5}
+        - {x: 107.5, y: 17.5}
+        - {x: 107.5, y: 36.5}
+        - {x: 104.5, y: 49.5}
+        - {x: 30.5, y: 119.5}
+        - {x: 4.5, y: 119.5}
+        - {x: -20.5, y: 113.5}
+        - {x: -95.5, y: 56.5}
+        - {x: -106.5, y: 30.5}
+        - {x: -106.5, y: -40.5}
+        - {x: -76.5, y: -111.5}
+        - {x: -53.5, y: -118.5}
+        - {x: 33.5, y: -118.5}
+        - {x: 38.5, y: -117.5}
+        - {x: 70.5, y: -97.5}
+        - {x: 79.5, y: -60.5}
+    - name: Down walk_6
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 3123
+        width: 428
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 108, y: -2}
+        - {x: 108, y: 44}
+        - {x: 51, y: 118}
+        - {x: -16, y: 118}
+        - {x: -27, y: 113}
+        - {x: -99, y: 47}
+        - {x: -107, y: 20}
+        - {x: -107, y: -30}
+        - {x: -75, y: -117}
+        - {x: 45, y: -117}
+        - {x: 53, y: -110}
+        - {x: 81, y: -66}
+        - {x: 65, y: -35}
+    - name: Down walk_7
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 3120
+        width: 429
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64.5, y: 88}
+        - {x: 29.5, y: 117}
+        - {x: -9.5, y: 117}
+        - {x: -107.5, y: 51}
+        - {x: -107.5, y: 25}
+        - {x: -106.5, y: 20}
+        - {x: -99.5, y: 14}
+        - {x: -69.5, y: 14}
+        - {x: -68.5, y: 13}
+        - {x: -73.5, y: 14}
+        - {x: -83.5, y: 14}
+        - {x: -91.5, y: 13}
+        - {x: -106.5, y: 2}
+        - {x: -107.5, y: 0}
+        - {x: -107.5, y: -33}
+        - {x: -78.5, y: -117}
+        - {x: 81.5, y: -117}
+        - {x: 107.5, y: -55}
+        - {x: 107.5, y: 43}
+        - {x: 100.5, y: 51}
+    - name: Down walk_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2637
+        width: 429
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 107.5, y: 12}
+        - {x: 107.5, y: 42}
+        - {x: 68.5, y: 111}
+        - {x: 40.5, y: 116}
+        - {x: -15.5, y: 116}
+        - {x: -51.5, y: 67}
+        - {x: -107.5, y: 42}
+        - {x: -107.5, y: -36}
+        - {x: -76.5, y: -115}
+        - {x: 58.5, y: -115}
+        - {x: 85.5, y: -59}
+        - {x: 59.5, y: -33}
+        - {x: 106.5, y: 11}
+    - name: Down walk_9
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 2637
+        width: 428
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 117.5}
+        - {x: -107, y: 49.5}
+        - {x: -107, y: 25.5}
+        - {x: -106, y: 19.5}
+        - {x: -99, y: 13.5}
+        - {x: -69, y: 13.5}
+        - {x: -68, y: 12.5}
+        - {x: -73, y: 13.5}
+        - {x: -88, y: 13.5}
+        - {x: -107, y: 7.5}
+        - {x: -107, y: -37.5}
+        - {x: -83, y: -116.5}
+        - {x: 60, y: -116.5}
+        - {x: 108, y: -41.5}
+        - {x: 108, y: 63.5}
+        - {x: 72, y: 117.5}
+    - name: Down walk_10
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 2637
+        width: 428
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: 118}
+        - {x: -106, y: 36}
+        - {x: -104, y: 20}
+        - {x: -97, y: 15}
+        - {x: -71, y: 15}
+        - {x: -90, y: 14}
+        - {x: -97, y: 12}
+        - {x: -107, y: -2}
+        - {x: -107, y: -39}
+        - {x: -72, y: -117}
+        - {x: 84, y: -117}
+        - {x: 108, y: -62}
+        - {x: 108, y: 94}
+        - {x: 44, y: 118}
+    - name: Down walk_11
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 2637
+        width: 426
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 107.5, y: 37.5}
+        - {x: 103.5, y: 48.5}
+        - {x: 34.5, y: 119.5}
+        - {x: -1.5, y: 119.5}
+        - {x: -27.5, y: 110.5}
+        - {x: -46.5, y: 66.5}
+        - {x: -94.5, y: 54.5}
+        - {x: -106.5, y: 36.5}
+        - {x: -106.5, y: -35.5}
+        - {x: -100.5, y: -67.5}
+        - {x: -72.5, y: -115.5}
+        - {x: -40.5, y: -118.5}
+        - {x: 53.5, y: -118.5}
+        - {x: 90.5, y: -58.5}
+        - {x: 74.5, y: 2.5}
+        - {x: 107.5, y: 15.5}
+    - name: Down walk_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2151
+        width: 428
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 108, y: 14.5}
+        - {x: 108, y: 42.5}
+        - {x: 48, y: 105.5}
+        - {x: 29, y: 120.5}
+        - {x: 7, y: 120.5}
+        - {x: -21, y: 114.5}
+        - {x: -50, y: 76.5}
+        - {x: -107, y: 46.5}
+        - {x: -107, y: -30.5}
+        - {x: -71, y: -112.5}
+        - {x: 2, y: -119.5}
+        - {x: 59, y: -119.5}
+        - {x: 95, y: -67.5}
+        - {x: 80, y: 10.5}
+        - {x: 106, y: 11.5}
+    - name: Down walk_13
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 2151
+        width: 426
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 107.5, y: 17.5}
+        - {x: 107.5, y: 36.5}
+        - {x: 104.5, y: 49.5}
+        - {x: 30.5, y: 119.5}
+        - {x: 4.5, y: 119.5}
+        - {x: -20.5, y: 113.5}
+        - {x: -95.5, y: 56.5}
+        - {x: -106.5, y: 30.5}
+        - {x: -106.5, y: -38.5}
+        - {x: -75.5, y: -109.5}
+        - {x: -54.5, y: -115.5}
+        - {x: -20.5, y: -118.5}
+        - {x: 51.5, y: -118.5}
+        - {x: 57.5, y: -110.5}
+        - {x: 90.5, y: -58.5}
+        - {x: 74.5, y: 2.5}
+    - name: Down walk_14
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 2151
+        width: 428
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 108, y: 35}
+        - {x: 101, y: 51}
+        - {x: 34, y: 118}
+        - {x: 1, y: 118}
+        - {x: -27, y: 112}
+        - {x: -99, y: 46}
+        - {x: -107, y: 19}
+        - {x: -107, y: -31}
+        - {x: -75, y: -118}
+        - {x: 61, y: -118}
+        - {x: 87, y: -56}
+        - {x: 70, y: -11}
+        - {x: 108, y: 11}
+    - name: Down walk_15
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 2151
+        width: 429
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.5, y: 117}
+        - {x: -9.5, y: 117}
+        - {x: -107.5, y: 51}
+        - {x: -107.5, y: 25}
+        - {x: -106.5, y: 20}
+        - {x: -99.5, y: 14}
+        - {x: -69.5, y: 14}
+        - {x: -68.5, y: 13}
+        - {x: -73.5, y: 14}
+        - {x: -83.5, y: 14}
+        - {x: -91.5, y: 13}
+        - {x: -106.5, y: 2}
+        - {x: -107.5, y: 0}
+        - {x: -107.5, y: -30}
+        - {x: -72.5, y: -114}
+        - {x: -65.5, y: -116}
+        - {x: 79.5, y: -116}
+        - {x: 107.5, y: -62}
+        - {x: 107.5, y: 49}
+        - {x: 64.5, y: 88}
+    - name: Down walk_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1665
+        width: 429
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 107.5, y: 12}
+        - {x: 107.5, y: 42}
+        - {x: 68.5, y: 111}
+        - {x: 40.5, y: 116}
+        - {x: -15.5, y: 116}
+        - {x: -51.5, y: 67}
+        - {x: -107.5, y: 42}
+        - {x: -107.5, y: -36}
+        - {x: -76.5, y: -115}
+        - {x: 58.5, y: -115}
+        - {x: 85.5, y: -59}
+        - {x: 59.5, y: -33}
+        - {x: 106.5, y: 11}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
