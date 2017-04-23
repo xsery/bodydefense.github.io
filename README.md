@@ -29,7 +29,7 @@ The character inspiration and game elements came from diferent sects.
 
 ## Sound
 	
-Youtube library
+Youtube library and SoundBible.com
 
 ## Play
 
