@@ -18,8 +18,7 @@ Body Defense creators:
 * Yasmim Rodrigues- Designer
 
 ## Gameplay
-
-Player create obstructions that can damage or kill enemy attackers before destroying the body.
+The battle happens all time between inside the body world among viruses and antibodies. So, the player create obstructions which attacks and that can damage or kill enemy attackers before destroying the body.
 
 
 ## ART Concept
