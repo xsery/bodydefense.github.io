@@ -13,7 +13,7 @@ Body Defense creators:
 
 * Francisca Augusto - Developer / Game Designer
 
-* Thomas - Designer
+* Thomas Cordeiro - Designer
 
 * Yasmim Rodrigues- Designer
 
