@@ -29,6 +29,8 @@ The character inspiration and game elements came from diferent sects.
 ## Sound
 	
 Youtube library
+Copyright © 1997-2017 Sounddogs.com, Inc. 
+COPYRIGHT © 2008 - 2017 SOUNDSNAP
 
 ## Play
 
