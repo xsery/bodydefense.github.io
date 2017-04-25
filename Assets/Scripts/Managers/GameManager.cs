@@ -475,7 +475,7 @@ public class GameManager : Singleton<GameManager>
         wave++;
 
         //Updates the wave text, so that the player can see it
-        waveText.text = string.Format("Wave: <color=lime>{0}</color>",wave);
+        waveText.text = string.Format("Invasion: <color=lime>{0}</color>",wave);
 
         //Starts to spawn the wave
         StartCoroutine(SpawnWave());
@@ -507,13 +507,13 @@ public class GameManager : Singleton<GameManager>
                     type = "BlueMonster";
                     break;
                 case 1:
-                    type = "RedMonster";
-                    break;
-                case 2:
                     type = "GreenMonster";
                     break;
-                case 3:
+                case 2:
                     type = "PurpleMonster";
+                    break;
+                case 3:
+                    type = "RedMonster";
                     break;
             }
 
