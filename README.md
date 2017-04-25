@@ -37,3 +37,6 @@ COPYRIGHT © 2008 - 2017 SOUNDSNAP
 ## Play
 
 [PLAY BodyDefense](Release/)
+
+
+### Standalone version.: https://www.dropbox.com/sh/am3x4rx91t01b2n/AABTej9TzYHjnzdLOvDuy_ija?dl=0
