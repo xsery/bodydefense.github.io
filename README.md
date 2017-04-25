@@ -36,4 +36,4 @@ COPYRIGHT © 2008 - 2017 SOUNDSNAP
 
 ## Play
 
-[PLAY BodyDefense](source/)
+[PLAY BodyDefense](Release/)
